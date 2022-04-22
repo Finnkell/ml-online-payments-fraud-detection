@@ -1,0 +1,4 @@
+database/*.csv
+database/*.json
+database/*.parquet
+database/*.parquet.gzip
